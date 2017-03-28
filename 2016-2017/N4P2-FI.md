@@ -50,20 +50,21 @@ coaching sportif à domicile
 * git serveur + js : https://github.com/Daikimi/Projet_Agile.git
 * git android : 
 
-# iLearn
 
-Système de surveillance des TPs des premières semestre du DUT Informatique afin de favoriser le suivi des élèves.
+# SPI / DeclicFermeture
+
+Spécialiste de la pose et maintenance de portes sectionelles et équipements de quai
 
 ## Équipe
 
-* Beuns Vianney
-* Meftouh Riad
-* Halleux Alexandre
-* Delporte Allan
-* Bels Alexis
-* Picault Maxime
-
+* Coeuret Axel
+* Tartare Valentin
+* Vandeputte Simon
+* Laude Rémi
+* Holquin Benjamin
+* Hadjadj Juliette
+* Deblock Adrien
 ## Resources
 
-* git serveur + js : https://gitlab.com/beunsv/ProjetAgile2017-Grp1
-* git android : https://gitlab.com/tchobels/Agile-Android
+* git serveur + js : https://github.com/Axel-C/SPI.git
+* git android : https://github.com/valentintartare/SPIapp
